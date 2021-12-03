@@ -235,7 +235,10 @@ const RootIndex = () => {
                     rel='noreferrer'>Click Here</a>
                 </div>
                 <div>
-                  <strong>CoinGecko:</strong> Coming soon
+                  <strong>CoinGecko:</strong> <a
+                    href='https://www.coingecko.com/en/coins/lovelace-world'
+                    target='_blank'
+                    rel='noreferrer'>Click Here</a>
                 </div>
               </div>
             </div>
